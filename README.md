@@ -1,4 +1,4 @@
-# 📋 Task Manager REST API
+# 📋 Task Management System
 
 A production-ready **Spring Boot REST API** for managing tasks with full CRUD operations, status workflow validation, async processing, and a built-in dashboard.
 
